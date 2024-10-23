@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Camiseta Básica",
+        "tamanho": "M",
+        "preco": 29.99,
+        "imagem": "img/camiseta.jpeg"
+    },
+    {
+        "nome": "Calça Jeans",
+        "tamanho": "G",
+        "preco": 79.99,
+        "imagem": "img/jeans.jpg"
+    },
+    {
+        "nome": "Jaqueta de Couro",
+        "tamanho": "P",
+        "preco": 149.99,
+        "imagem": "img/jaqueta.jpg"
+    },
+    {
+        "nome": "Tenis Masculino",
+        "tamanho": "42",
+        "preco": 149.99,
+        "imagem": "img/tenism.jpg"
+    },
+    {
+        "nome": "Tenis Feminino",
+        "tamanho": "36",
+        "preco": 249.99,
+        "imagem": "img/tenisf.jpg"
+    }
+]
